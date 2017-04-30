@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\zed-opencv-master\build\CMakeFiles\33a593bf64a62c9c869fc8956cc90f5f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E2EAC77B-F562-3728-B1D2-A8EB3E260EA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bin\FireBirdCPPlib.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\FireBirdCPPLibrary.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="bin\FireBirdCPPLibrary.lib" />
+  </ItemGroup>
+</Project>
